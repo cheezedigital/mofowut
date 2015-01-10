@@ -1,3 +1,2 @@
-== MOFO
-  check this: http://www.justinveirs.me/
-  rinse, repeat
+MOFO
+  check this: http://www.justinveirs.me/ rinse repeat 
